@@ -7,3 +7,4 @@ To play the game:
 1. Clone this repository
 2. Open `index.html` in your browser
 3. Enjoy!
+![App Screenshot](images/screenshot.png)
